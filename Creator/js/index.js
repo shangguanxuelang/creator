@@ -312,7 +312,7 @@ function main(){
 		   }
 		   if(swiper.activeIndex==3){
 		   		$(".line p").css({
-			   		animation: "scale3 3s 0s linear normal forwards",
+			   		animation: "scale3 5s 0s linear normal forwards",
 			   	})
 		   	  $(".page4 p:eq(0) img").eq(0).css({
 		   	  	animation: "scale3 1.5s 1s linear normal forwards",
